@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: linear-gradient(to bottom right, #EAECCC, #FAEED1);
+     
+  }
+
+  #btn{
+    display: flex;
+    align-items: center;
+    background-color: #BBAB8C;
+    width: max-content;
+    padding: 10px 20px; /* Add padding for better appearance */
+    border: #BBAB8C;
+    border-radius: 12px;
+    color: white;
+    margin: auto;
+    text-align: center;
+  }
+  #heading{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2.5rem;
+  }
+
+  p{
+    color: #27374D;
+}
+
+  
+
